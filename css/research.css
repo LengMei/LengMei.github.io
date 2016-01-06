@@ -120,16 +120,15 @@ section#header{
         width: 20%;
     }
     .section_header{
-        font-size: 20px;
+        font-size: 18px;
     }
     .section_subheader{
-        font-size: 18px;
+        font-size: 16px;
     }
     .first_td{
         width: 120px;
     }
-    .center_section li{
-        margin-bottom: 14px;
+    .center_section{
+        font-size: 14px;
     }
-
 }
